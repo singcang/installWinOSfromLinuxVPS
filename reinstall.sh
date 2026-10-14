@@ -7,7 +7,7 @@
 
 set -eE
 confhome=https://raw.githubusercontent.com/singcang/installWinOSfromLinuxVPS/main
-confhome_cn=https://cnb.cool/singcang/installWinOSfromLinuxVPS/-/git/raw/main
+confhome_cn=https://raw.githubusercontent.com/singcang/installWinOSfromLinuxVPS/main
 # confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/installWinOSfromLinuxVPS/installWinOSfromLinuxVPS/main
 
 # 用于判断 reinstall.sh 和 trans.sh 是否兼容
